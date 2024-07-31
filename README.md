@@ -11,6 +11,8 @@
 - Create Map for save every user's state.
 - Save test result and output it in the end.
 
+![lesson_2.jpg](pictures%2Flesson_2.jpg)
+
 ## Lesson 3
 
 ## Lesson 4
